@@ -1,2 +1,2 @@
-nginx
+billygoo/tomcat8-jdk8
 
