@@ -1,2 +1,3 @@
-billygoo/tomcat8-jdk8
+mysql:5.7
+
 
