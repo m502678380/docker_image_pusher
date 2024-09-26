@@ -1,4 +1,2 @@
-mysql
-redis
-ubuntu
+centos:7.5
 
