@@ -1,2 +1,3 @@
 tarscloud/framework:latest
+tarscloud/tars-node:latest
 
