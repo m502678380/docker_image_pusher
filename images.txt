@@ -1,3 +1,2 @@
-kube-controllers:v3.26.1
-
+tarscloud/framework:latest
 
