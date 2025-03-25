@@ -1,3 +1,2 @@
-tarscloud/framework:latest
-tarscloud/tars-node:latest
+openjdk:17.0.14
 
