@@ -1,2 +1,2 @@
-nacos/nacos-server:v3.0.1
+docker pull springcloud/eureka:1.9.3
 
