@@ -1,2 +1,2 @@
-docker pull springcloud/eureka:1.9.3
+springcloud/eureka:1.9.3
 
