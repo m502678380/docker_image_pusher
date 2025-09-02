@@ -1,2 +1,2 @@
-zilliz/attu:v2.6
+nvidia/cuda:12.1.0-base-ubuntu22.04
 
