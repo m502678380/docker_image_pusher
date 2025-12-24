@@ -1,2 +1,2 @@
-vllm/vllm-openai:v0.23.0
+linuxserver/monstaftp:latest
 
